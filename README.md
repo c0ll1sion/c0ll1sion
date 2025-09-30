@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**c0ll1sion/c0ll1sion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend and software developer with experience in different areas of programming, from low-level to high-level technologies.  
+This profile is a place for my projects, experiments, and contributions.
 
-Here are some ideas to get you started:
+### About Me
+- Backend Developer  
+- Python Developer  
+- C / C++ Developer  
+- Game modifications developer (including cheats and tooling)  
+- Reverse Engineer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+I work with a wide range of languages and technologies, ordered roughly from lower-level to higher-level:
+
+- Assembly (ASM)  
+- C / C++  
+- Java  
+- PHP  
+- Python  
+- TypeScript  
+- JavaScript  
+- React  
+
+### Interests
+- Reverse engineering  
+- Cloud technologies  
+- Cybersecurity  
